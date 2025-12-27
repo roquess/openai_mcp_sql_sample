@@ -48,6 +48,13 @@ ORDER BY age DESC
 * Results are returned in a structured and predictable format.
 * This tutorial follows the **MCP philosophy**, allowing flexible, auditable, and secure LLM interactions with external data.
 
+## Start
+
+```
+python setup_db.py
+python main.py
+```
+
 ## License
 
 This project is released under the **MIT License**, allowing free use, modification, and distribution.
